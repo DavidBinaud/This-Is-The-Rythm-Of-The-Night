@@ -1,0 +1,29 @@
+Ballade dans les bois:
+
+-explo "contemplatif"		~~~~
+-espace game
+-turn per turn
+-petit chaperon rouge
+-freecam 2D
+-jeu de piste			~~~~
+-course d'orientation		~~~~
+-binding os isaac like
+-chasse     			~~~~
+
+
+
+possibilité de croiser des pnj's, la camionnette avec la femme dans le coffre qui chante "this is the rythm of the night"
+
+
+
+generation procedurale???
+plusieurs niveaux, loup qui suit, 
+peut recuperer des pieges pour les posers, camera qui suit joueur et changement d'angle selon la touche holddown
+
+nature starter kit 2
+
+ROGUE-LIKE plutot, mob en thematique avec la foret, loup garou, loup , sanglier, animaux enragé. possible armes musicales en bois ex flute de pan
+Reflechir sprite ou de la 3D.
+
+
+Mode Little Big Planet, 2D mais deplacement possible entre les plans
