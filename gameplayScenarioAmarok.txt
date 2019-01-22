@@ -1,0 +1,33 @@
+							Amarok
+-cheat code pour arriver à la fin (présentation)
+
+-rogue like // 2D vue latérale/linéaire // avec plusieurs "salles" // interaction decor ou spaw de mob
+
+-Scenario: Un soir d'été, une lueur se déploya dans le ciel, celle-ci se rapprocha.. de plus en plus prés.. puis dans 
+un eclat tel une supernova elle.. se sépara en 2. Une partie arriva tout droit sur moi tandis que l'autre se rua sur la forêt 
+adjacente a ma demeure. Puis ce fut le noir. Le noir complet. A mon réveil je trouva un loup blanc spirituel (amaterasu) qui tenta 
+de communiquer avec moi. Du cote de la foret, celle-ci devînt de plus en plus sombre. Amaterasu m'expliqua qu'a lui seul il n'avait 
+pas assez d'energie pour retablir l'equilibre et pour la retablir, il devait rejoindre son alter ego (Amarok) qui endommageait la foret. 
+J'ai donc décidé de l'aider et de m'aventurer dans la foret...
+
+-Amaterasu nous suivrait pendant tout la partie et peut intervenir de temps en temps
+
+Fight : Stats ( degats/defense/energie) // Tour par tour // épee/plante pour se heal/champignon pour empoisonner l'ennemi ..
+
+1ere salle : le décor semble normal / la foret n'est pas altéree. Une salle ou l'on peut interagir avec le décor / loot des items
+
+2ème salle : la foret semble plus endommagé/sombre..  initiation au combat : un plante carnivore enragée et 2 arbuste maudits
+nous attaquent 
+--> FIGHT..
+
+3eme salle: la foret parait maudite, les feuilles sont séchées, il ne semble plus y avoir de vie, tout est sombre.
+Interaction avec le décor / loot / inventaire. ( derriere dans la foret, contre tout attente, une caravane semble bouger avec la musique
+rythm of the night) --> easter egg ( le gars dans la caravne nous donne un item OP)
+
+4eme salle: Amarok // BOSS final --> attaque tres forte / Grosses stats.
+
+-Si Victoire --> Fusion Amarok et Amaterasu ..
+
+-Sinon reviens a la premiere salle.
+
+ 
