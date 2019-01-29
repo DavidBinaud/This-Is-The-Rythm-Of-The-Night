@@ -23,13 +23,17 @@ public class First : MonoBehaviour
         if (moveX != 0)
         {
             GetComponent<Rigidbody2D>().velocity = new Vector2(moveX * maxSpeed * Time.deltaTime * 40, 0);
-            anim.SetFloat("Speed", moveX);
+            anim.SetInteger("Direction", 1);
         }
 
-        if (moveY != 0)
+        if (moveY > 0)
         {
             GetComponent<Rigidbody2D>().velocity = new Vector2(0, moveY * maxSpeed * Time.deltaTime * 40);
-            
+            anim.SetInteger("Direction", 2);
+        }
+        else if(moveY < 0) {
+            GetComponent<Rigidbody2D>().velocity = new Vector2(0, moveY * maxSpeed * Time.deltaTime * 40);
+            anim.SetInteger("Direction", 3);
         }
 
         if (moveX > 0 && !facingRight)
@@ -44,6 +48,7 @@ public class First : MonoBehaviour
         if (moveX == 0 && moveY == 0)
         {
             GetComponent<Rigidbody2D>().velocity = new Vector2(0, 0);
+            anim.SetInteger("Direction", 0);
         }
     }
     
